@@ -5,4 +5,5 @@ All my reviews are conducted on a QK65 with FR4 Plate (which will be replaced in
 
 Plate foam only
 
-My favorite place to buy switches: https://knckeys.com?sca_ref=2138978.DF63YMHE16
+My favorite place to buy switches: https://knckeys.com?sca_ref=2138978.DF63YMHE16 (use code Siege at checkout for 5% off!)
+
