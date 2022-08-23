@@ -43,7 +43,7 @@ Processing
 
 
 
-Evaluations: 1-10 scale but realistically the useful range is 5-10 - if something scores a 6 or below it’s notably worse than the average switch. A ‘good’ switch should be a 7 or 8 in every category. A great switch will be 8-9. 
+EVALUATIONS: 1-10 scale but realistically the useful range is 5-10 - if something scores a 6 or below it’s notably worse than the average switch. A ‘good’ switch should be a 7 or 8 in every category. A great switch will be 8-9. 
 
 Sound - My keyboard is set up in a clacky way, but a QK65 is also a fairly deep sounding keyboard. This does have an impact on switch sounds, and switches will sound notably different in different keyboards
 
@@ -66,7 +66,7 @@ Personal Rating - I genuinely try to be objective for the switch evaluations, th
 
 
 
-My Biases: I do my best to not be influenced by these in my ratings, but they will always have at least some influence over my evaluations of a switch - I figure it’s best to be upfront and clear about my preferences and biases.
+MY BIASES: I do my best to not be influenced by these in my ratings, but they will always have at least some influence over my evaluations of a switch - I figure it’s best to be upfront and clear about my preferences and biases.
 
 Sound - 
 I generally prefer switches with a distinct sound, either clacky, or thocky, louder, etc. A ‘generic’ and inoffensive sound won’t be rated highly.
