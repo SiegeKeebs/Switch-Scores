@@ -18,14 +18,23 @@ I cannot control the device you are listening to this video on, I try to make su
 The purpose of these reviews is to provide subjective evaluations of switches with a Standardized setup to evaluate switches as objectively as possible and so that sound tests can be compared against each other to determine the differences between switches as objectively as one can using online sound tests.
 
 Standardizations for tests: (All of these things are identical for every test)
+
 Keyboard (QK65) 
+
 Plate (FR4)
+
 Foam (ONLY plate foam!)
+
 Desk Mat (Dots)
+
 Desk
+
 Microphone
+
 Microphone placement
+
 Audio Interface
+
 Processing
 
 
