@@ -29,11 +29,11 @@ Desk Mat (Dots)
 
 Desk
 
-Microphone
+Microphone (AT2020)
 
 Microphone placement
 
-Audio Interface
+Audio Interface (UMC22)
 
 Processing
 
