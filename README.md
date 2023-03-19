@@ -29,11 +29,11 @@ Desk Mat (Dots)
 
 Desk
 
-Microphone (AT2020)
+Microphone (matched pair t.bone SC140)
 
 Microphone placement
 
-Audio Interface (UMC22)
+Audio Interface (id14mkII)
 
 Processing
 
